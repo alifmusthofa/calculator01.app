@@ -1,4 +1,7 @@
-﻿using System;
+﻿// Nama : MUHAMMAD ALIF MUSTHOFA
+// NIM  : 20.11.3368
+// KELAS: 20-IF-02
+using System;
 
 namespace Calculator
 {

@@ -11,8 +11,7 @@
 Calculator.csproj
 
 # User-specific folders
-bin/
-obj/
+
 
 ### VisualStudioCode Patch ###
 # Ignore all local history of files
